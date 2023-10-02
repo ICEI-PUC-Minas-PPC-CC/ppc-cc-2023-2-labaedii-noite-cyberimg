@@ -9,7 +9,7 @@
 - Diovane de Jesus Almeida Signorelli
 - Felipe Pereira de Padua
 - João Augusto Nogueira Ferrero
-- João Pedro Zaghi Congio Tereza
+- João Pedro Zaghi Congio Tereza 
 
 # Documentação
 
