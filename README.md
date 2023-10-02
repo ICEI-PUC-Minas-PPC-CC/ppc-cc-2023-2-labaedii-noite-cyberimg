@@ -6,10 +6,10 @@
 
 ## Integrantes
 
-- Diovane Signorelli
+- Diovane de Jesus Almeida Signorelli
 - Felipe Pereira de Padua
-- Larry Ellison
-- Mark Zuckerberg
+- João Augusto Nogueira Ferrero
+- João Pedro Zaghi Congio Tereza
 
 # Documentação
 
