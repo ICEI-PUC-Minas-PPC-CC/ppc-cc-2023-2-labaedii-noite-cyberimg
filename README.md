@@ -17,5 +17,5 @@
 |  :----:   | ----------- |
 | ETAPA 1 | Definição dos problemas e formação das equipes |
 | ETAPA 2 | <a href="docs/1-Documentacao-contexto.md"> Documentação de Contexto</a>
-| ETAPA 3 | <a href="definição.txt"> Especificações do Projeto
+| ETAPA 3 | <a href="Especificação.md"> Especificações do Projeto
 
