@@ -1,0 +1,19 @@
+# DEFINIÇÃO DE STRUCTS
+
+## 1° STRUCT: Struct Cliente:
+Struct contendo variáveis como; ID do cliente, Nome, Endereço, CPF;
+para o melhor manuseio de informações.
+
+## 2° STRUCT: Struct ItemVenda:
+Struct contendo variáveis como o Código do item, O cliente que comprou,
+vinda da primeira struct, e o número de itens (Struct itemVenda itens[10], por exemplo)
+
+## 3° STRUCT: Struct EntradaSaidaCaixa:
+Struct contendo variáveis como ID, descrição e valor, usada para manusear com maior facilidade
+as entradas e saídas em respectivos caixas, baseado em seu ID e descrição.
+
+## 4° STRUCT: Struct FechamentoCaixa:
+Struct contendo variáveis como Número do caixa, e Movimentos, por exemplo; Struct SaidaCaixa movimentos[50]), definindo o número máximo de movimentos no caixa à 50.
+
+
+### Com tais structs e com a implementação de algumas funções, poderíamos automatizar o cálculo do saldo após o fechamento do caixa, facilitar o acesso aos dados dos clientes e controlar suas ações de compra.
