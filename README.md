@@ -1,4 +1,4 @@
-#  TÍTULO DO PROJETO
+#  Caixa Diário
 
 `PPC-CC: PUC Poços de Caldas - Ciência da Computação`
 `Disciplina: NOME DA DISCIPLINA`
